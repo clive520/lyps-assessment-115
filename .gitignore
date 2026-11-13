@@ -1,0 +1,13 @@
+# Ignore all raw data files containing personal names
+*.pdf
+*.xlsx
+
+# Ignore temporary scripts and intermediate images
+*.py
+*.png
+*.pyc
+__pycache__/
+
+# Ignore system generated files
+.system_generated/
+.gemini/
